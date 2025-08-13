@@ -1,12 +1,26 @@
-# React + Vite
+# 📧 Gmail Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional **Gmail Clone** built with **React.js**, **Firebase**, **Redux**, and **Tailwind CSS**.  
+This project replicates core Gmail features such as authentication, sending/receiving emails, and a responsive UI — all in a modern tech stack.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **User Authentication** (Login) using Firebase Auth
+- **Send Emails** in real time
+- **Redux State Management** for app-wide state
+- **Responsive UI** with Tailwind CSS
+- **Inbox, Sent, Drafts** style email sections
+- **Firebase Firestore** for data storage
+- **Dynamic Routing** with React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Backend & Database:** Firebase Authentication, Firebase Firestore  
+- **Routing:** React Router
+
+
